@@ -4,6 +4,7 @@
         <requirements>
             <requirement type="package" version="3.02">glimmer</requirement>
             <requirement type="package" version="1.70">biopython</requirement>
+            <requirement type="package" version="2.7">python</requirement>
             <yield/>
         </requirements>
     </xml>
